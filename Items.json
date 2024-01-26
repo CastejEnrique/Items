@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Piedra Agua",
-      "para": "Eevee"
+      "para": ["Eevee"]
     },
     {
       "id": 2,
