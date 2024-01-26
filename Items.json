@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Piedra Agua",
+      "para": "Eevee"
+    },
+    {
+      "id": 2,
+      "name": "Piedra Fuego",
+      "para": ["Vulpix", "Growlithe", "Eevee"]
+    },
+    {
+      "id": 3,
+      "name": "Piedra Trueno",
+      "para": ["Pikachu", "Eevee"]
+    },
+    {
+      "id": 4,
+      "name": "Piedra Lunar",
+      "para": ["Nidorina", "Nidorino", "Clefairy", "Jigglypuff"]
+    }
+  ]
+}
